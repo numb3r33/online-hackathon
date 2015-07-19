@@ -1,7 +1,7 @@
 ## Approach
 
 * Preprcessing
-	** Trim white spaces and lowercase all column names
+..** Trim white spaces and lowercase all column names
 
 * EDA
 --** Relationship between day of publishing and shares
